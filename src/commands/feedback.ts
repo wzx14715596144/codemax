@@ -24,6 +24,6 @@ export const feedbackCommand: Command = {
     void message;
 
     logger.success(`Thank you for your ${type} feedback!`);
-    logger.dim('Please also report at: https://github.com/your-username/codemax/issues');
+    logger.dim('Please also report at: https://github.com/wzx14715596144/codemax/issues');
   },
 };
