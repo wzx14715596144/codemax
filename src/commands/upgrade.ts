@@ -20,7 +20,7 @@ export const upgradeCommand: Command = {
         logger.success('You are on the latest version');
       }
     } catch {
-      logger.info('Could not check for updates. Visit https://github.com/your-username/codemax');
+      logger.info('Could not check for updates. Visit https://github.com/wzx14715596144/codemax');
     }
   },
 };
