@@ -112,7 +112,7 @@ codemax's AI model can use these built-in tools autonomously:
 ## Development
 
 ```bash
-git clone https://github.com/your-username/codemax
+git clone https://github.com/wzx14715596144/codemax
 cd codemax
 npm install
 npm run build
