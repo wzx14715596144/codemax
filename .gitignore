@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.codemax/
+*.log
+.env
+.env.local
+sessions.json
